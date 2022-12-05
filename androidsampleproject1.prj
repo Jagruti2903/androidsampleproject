@@ -6,6 +6,7 @@
    <UUID>d8d59629-39e6-47c9-af5a-d90a2c0571f6</UUID>
    <migratedVersion>5.9.0</migratedVersion>
    <pageLoadTimeout>0</pageLoadTimeout>
+   <projectFileLocation>/Users/aditidixit/git/androidsampleproject1/androidsampleproject1.prj</projectFileLocation>
    <sourceContent>
       <sourceFolderList>
          <sourceFolderConfiguration>
